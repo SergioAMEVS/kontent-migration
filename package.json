@@ -1,0 +1,9 @@
+{
+  "type": "module" ,
+  "dependencies": {
+    "@kontent-ai/cli": "github:kontent-ai/cli",
+    "@kontent-ai/management-sdk": "^6.3.0",
+    "node-fetch": "^2.6.1",
+    "xlsx": "^0.18.5"
+  }
+}
